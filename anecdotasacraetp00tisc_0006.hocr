@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anecdotasacraetp00tisc_0006.png"; bbox 0 0 2277 2927; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 916 1170 1441 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 916 1170 1441 1270">
+     <span class='ocr_line' id='line_1_1' title="bbox 1021 1170 1329 1191; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 1021 1172 1096 1187; x_wconf 47' lang='lat' dir='ltr'>Tyri*</span> <span class='ocrx_word' id='word_1_2' title='bbox 1115 1170 1329 1191; x_wconf 55' lang='lat' dir='ltr'>EXSUItH&#39;fiERK&#39;N&#39;I</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 916 1240 1441 1270; baseline -0.006 -1"><span class='ocrx_word' id='word_1_3' title='bbox 916 1241 1136 1270; x_wconf 65' lang='lat' dir='ltr'>GIESECKE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1158 1251 1191 1268; x_wconf 72' lang='lat' dir='ltr'>m·</span> <span class='ocrx_word' id='word_1_5' title='bbox 1211 1240 1441 1268; x_wconf 76' lang='lat' dir='ltr'>DEVRIENT.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1058 1327 1299 1341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1058 1327 1299 1341">
+     <span class='ocr_line' id='line_1_3' title="bbox 1058 1327 1299 1341; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 1058 1328 1152 1341; x_wconf 63' lang='lat' dir='ltr'>LH’SIAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1168 1327 1299 1340; x_wconf 56' lang='lat' dir='ltr'>MlnfflwLU.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
